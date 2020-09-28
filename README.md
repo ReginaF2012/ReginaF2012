@@ -5,8 +5,8 @@
 ### Where You Can Find Me!
 * :mailbox_with_mail: [Email](regina.furness2012@gmail.com)
 * :computer: [LinkedIn](https://www.linkedin.com/in/regina-furness/)
-* 📝 [My Blog](https://medium.com/@reginafurness)
-* :briefcase: :page_facing_up: [My Resume](https://docs.google.com/document/d/1PAwRfINnHS9M0d4b3R8X9obOk_64DzkFYpsyuOy_41I/edit)
+* 📝 [Blog](https://medium.com/@reginafurness)
+* :briefcase: :page_facing_up: [Resume](https://docs.google.com/document/d/1PAwRfINnHS9M0d4b3R8X9obOk_64DzkFYpsyuOy_41I/edit)
 
 ![Regina Furness' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaF2012&hide=stars&count_private=true&show_icons=true&theme=buefy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaF2012&layout=compact&theme=buef)
